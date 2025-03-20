@@ -1,0 +1,5 @@
+Console.WriteLine("pillow");
+Console.WriteLine("chairs");
+Console.WriteLine("clothes");
+Console.WriteLine("dinning table");
+Console.WriteLine("plates");
