@@ -3,3 +3,8 @@ Console.WriteLine("chairs");
 Console.WriteLine("clothes");
 Console.WriteLine("dinning table");
 Console.WriteLine("plates");
+
+
+
+
+Console.WriteLine("fridge");
